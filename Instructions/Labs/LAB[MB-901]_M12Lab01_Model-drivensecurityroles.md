@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Laboratorio 01: Explorar los roles de seguridad en las aplicaciones basadas en modelos de Dynamics 365'
-    module: 'Módulo 03: Reconocer la seguridad de Dynamics  365'
+    module: 'Módulo 12: Reconocer la seguridad de Dynamics  365'
 ---
 
 # MB-901: Fundamentos de Dynamics 365 
-## Módulo 3, Laboratorio 1 - explore los roles de seguridad en las aplicaciones basadas en modelos de Dynamics 365
+## Módulo 12, Laboratorio 1 - explore los roles de seguridad en las aplicaciones basadas en modelos de Dynamics 365
 
 **Escenario:** Como administrador del sistema, debe averiguar cuáles son los roles de seguridad disponibles de fábrica de Dynamics 365.
 

@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Laboratorio 01: Explorar Dynamics 365 Customer Service'
-    module: 'Módulo 7: Introducción a Dynamics 365 Customer Service'
+    module: 'Módulo 05: Introducción a Dynamics 365 Customer Service'
 ---
 
 # MB-901: Fundamentos de Dynamics 365 
-## Módulo 7, Laboratorio 1 - explorar Dynamics 365 Customer Service 
+## Módulo 5, Laboratorio 1 - explorar Dynamics 365 Customer Service 
 
 **Requisitos previos:** Antes de realizar los pasos de este laboratorio, realice las siguientes tareas: 
 

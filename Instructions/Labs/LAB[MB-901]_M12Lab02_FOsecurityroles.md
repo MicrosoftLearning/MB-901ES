@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Laboratorio 02: Explore los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations'
-    module: 'Módulo 03: Reconocer la seguridad de Dynamics  365'
+    module: 'Módulo 12: Reconocer la seguridad de Dynamics  365'
 ---
 
 # MB-901: Fundamentos de Dynamics 365
-## Módulo 3, Laboratorio 2 - explore los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations
+## Módulo 12, Laboratorio 2 - explore los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations
 
 ### Excluir rol
 

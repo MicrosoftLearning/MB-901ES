@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Laboratorio 01: Cree su primera aplicación basada en modelos desde cero'
-    module: 'Módulo 04: Conectar y analizar sus datos de Dynamics 365'
+    module: 'Módulo 13: Conectar y analizar sus datos de Dynamics 365'
 ---
 
 # MB-901: Fundamentos de Dynamics 365
-## Módulo 4, Laboratorio 1: Cree su primera aplicación basada en modelos desde cero
+## Módulo 13, Laboratorio 1: Cree su primera aplicación basada en modelos desde cero
 
 **Escenario:** Debe simplificar para crear una aplicación basada en modelo mediante una de las entidades estándar disponibles en el entorno de Power Apps. Las aplicaciones basadas en modelos no se ejecutan en la aplicación móvil Power Apps. En su lugar, se ejecuta una aplicación basada en modelo en un dispositivo móvil mediante la aplicación móvil Dynamics 365 o en el explorador web del teléfono.
 

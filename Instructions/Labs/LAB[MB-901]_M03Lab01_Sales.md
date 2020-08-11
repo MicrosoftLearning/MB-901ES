@@ -1,11 +1,11 @@
 ---
 lab:
     title: 'Laboratorio 01: Explore Dynamics 365 Sales'
-    module: 'Módulo 05: Introducción a Dynamics 365 Sales'
+    module: 'Módulo 03: Introducción a Dynamics 365 Sales'
 ---
 
 # MB-901: Dynamics 365 Sales
-## Módulo 5, Laboratorio 1 - Explore Dynamics 365 Sales
+## Módulo 3, Laboratorio 1 - Explore Dynamics 365 Sales
 
 **Requisitos previos:** Antes de realizar los pasos de este laboratorio, realice las siguientes tareas:
 
