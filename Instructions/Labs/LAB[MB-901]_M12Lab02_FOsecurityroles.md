@@ -1,15 +1,15 @@
 ---
 lab:
     title: 'Laboratorio 02: Explore los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations'
-    module: 'Módulo 12: Reconocer la seguridad de Dynamics  365'
+    module: 'Módulo 12: Reconocer la seguridad de Dynamics 365'
 ---
 
 # MB-901: Fundamentos de Dynamics 365
-## Módulo 12, Laboratorio 2 - explore los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations
+## Módulo 12, Laboratorio 2: Explorar los roles de seguridad en las aplicaciones de Dynamics 365 Finance and Operations
 
 ### Excluir rol
 
-**Escenario:** El departamento de RR. HH. de la empresa USMF solicitó que se quite el acceso al rol de Funcionario de clientes en las aplicaciones de Dynamics 365 Finance and Operations para un empleado que ha cambiado de rol. Usted, como administrador del sistema, debe excluir la función de empleado de Cuentas por cobrar para el empleado.
+**Escenario:** El departamento de RR. HH. de la empresa USMF solicitó que se quite el acceso al rol de Funcionario de clientes en las aplicaciones de Dynamics 365 Finance and Operations para un empleado que ha cambiado de rol. Usted, como administrador del sistema, debe excluir la función de empleado de Clientes para el empleado.
 
 1. Vaya a **Administración del sistema** > **Seguridad** > **Asignar usuarios a roles**.
 1. En el árbol, seleccione **'Funcionario de clientes'**.
@@ -18,7 +18,7 @@ lab:
 1. Haga clic en **Excluir del rol** para excluir a los usuarios seleccionados.
 1. Para eliminar exclusiones, seleccione a los usuarios para los que desea hacerlo y luego haga clic en **Restablecer estado**. 
 
-### Cree una regla de segregación de controles
+### Crear una regla de segregación de controles
 
 **Escenario:** El Departamento de RR. HH. de USMF ha solicitado una regla para la segregación de controles, de modo que **Acceder al área de trabajo de los beneficios** quede como el primer deber y **Acceder al diario de producción** quede como el segundo. Usted, como administrador del sistema, deberá crear la regla.
 
