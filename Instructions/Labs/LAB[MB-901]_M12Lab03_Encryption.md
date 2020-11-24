@@ -9,6 +9,8 @@ lab:
 
 **Escenario:** Usted, como administrador del sistema, debe cambiar y copiar la clave de cifrado de la organización.
 
+**Nota:**  Dado que este laboratorio requiere el acceso como administrador al entorno, el instructor deberá demostrarlo.
+
 ## Instrucciones
 
 1. Vaya al Centro de administración de Power Platform.  
