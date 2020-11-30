@@ -21,12 +21,12 @@ lab:
 1. En el campo **Nombre de cuenta**, escriba **Microsoft**.
 1. En el campo **Correo electrónico**, escriba su alias de correo electrónico.
 1. En el campo **Teléfono del trabajo**, escriba **949-555-1212**.
-1. En el campo **Dirección 1:**En el campo **Calle 1**, escriba **1 Microsoft Way**.
-1. En el campo **Dirección 1:**En el campo **Ciudad**, escriba **Redmond**.
+1. En el campo **Dirección 1:** En el campo **Calle 1**, escriba **1 Microsoft Way**.
+1. En el campo **Dirección 1:** En el campo **Ciudad**, escriba **Redmond**.
     - **Nota:** si se han cargado los datos de demostración, se mostrará el formulario **Sugerencias de dirección**. Haga clic en **Aceptar**. Los campos **Dirección 1** se completarán automáticamente. 
-1. En el campo **Dirección 1:**En el campo **Estado/Provincia**, escriba **WA**.
-1. En el campo **Dirección 1:**En el campo **Código postal**, escriba **98007**.
-1. En el campo **Dirección 1:**En el campo **País/Región**, escriba **Estados Unidos**.
+1. En el campo **Dirección 1:** En el campo **Estado/Provincia**, escriba **WA**.
+1. En el campo **Dirección 1:** En el campo **Código postal**, escriba **98007**.
+1. En el campo **Dirección 1:** En el campo **País/Región**, escriba **Estados Unidos**.
 
 1. Haga clic en **Guardar y cerrar**.
 
