@@ -23,16 +23,16 @@ Para seleccionar el estado correcto de un caso, su administrador puede haber con
 1. En el campo **Título del caso**, escriba **Reloj inteligente Seahorse**.
 1. En el campo **Cliente**, seleccione el cliente **Fabrikam** y luego haga clic en un registro existente para la cuenta.
 1. En el campo **Descripción**, escriba **Problema con el reloj inteligente**
-1. Haga clic en la pestaña **Detalles**.
-1. Haga clic en **Guardar**.
+1. Seleccione la pestaña **Detalles**.
+1. Seleccione **Guardar**.
 1. Para realizar un seguimiento de su conversación con el cliente, en la sección **Cronograma** haga clic en **+** para agregar información y actividades.
-1. Haga clic en **Nota**.
+1. Seleccione **Nota**.
 1. En el campo **Título**, escriba **Defecto en reloj inteligente**.
 1. En el campo **Nota**, escriba **Enviar para reparación**.
-1. Haga clic en **Agregar nota**. 
+1. Seleccione **Agregar nota**. 
 14.	Para ver qué tipo de soporte debe proporcionar al cliente, seleccione el botón **Búsqueda de derechos** y, luego, seleccione un derecho activo.
  **Nota:** Si no hay derecho sobre el cliente, este estará en blanco.
-1. Haga clic en **Guardar**.
+1. Seleccione **Guardar**.
 
 ### Encuentre una solución de casos similares
 

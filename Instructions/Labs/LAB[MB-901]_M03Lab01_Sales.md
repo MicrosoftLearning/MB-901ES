@@ -14,7 +14,7 @@ lab:
 ### Crear nuevo contacto
 
 1. En el **Centro de ventas de Dynamics 365**, vaya a **Clientes** > **Contactos**.
-1. Haga clic en **Nuevo**.
+1. Seleccione **Nuevo**.
 1. En el campo **Nombre**, escriba **"Cameron"**.
 1. En el campo **Apellidos**, escriba **"Azadi"**.
 1. En el campo **Puesto**, escriba **Administrador de desarrollo de Xbox Series X**.
@@ -28,28 +28,28 @@ lab:
 1. En el campo **Dirección 1:** En el campo **Código postal**, escriba **98007**.
 1. En el campo **Dirección 1:** En el campo **País/Región**, escriba **Estados Unidos**.
 
-1. Haga clic en **Guardar y cerrar**.
+1. Seleccione **Guardar y cerrar**.
 
 ### Crear un nuevo cliente potencial
 
 1. En el **Centro de ventas de Dynamics 365**, vaya a **Ventas** > **Clientes potenciales**
-1. Haga clic en **Nuevo**.
+1. Seleccione **Nuevo**.
 1. En el campo **Tema**, escriba **Le gustan nuestros productos Xbox**.
 1. En el campo **Nombre**, escriba **"Cameron"**.
 1. En el campo **Apellidos**, escriba **"Azadi"**.
 1. En el campo **Empresa**, escriba **Microsoft**.
 
-1. Haga clic en **Guardar**.
+1. Seleccione **Guardar**.
 
 ### Añadir notas al nuevo cliente potencial
 
 1. En la sección **Escala de tiempo**, haga clic en **+** para agregar una nueva **Nota**.
 1. En el campo **Título**, escriba **Reunión con Cameron sobre Xbox Series X**.
-1. Haga clic en **Agregar nota**.
+1. Seleccione **Agregar nota**.
 1. En la sección **Escala de tiempo**, haga clic en **+** para añadir otra **Nota** con datos adjuntos.
 1. En el campo **Título**, escriba **información de producto de Xbox Series X**.
-1. Haga clic en el icono del archivo adjunto y seleccione el documento de Word que ha creado al comienzo de este laboratorio.
-1. Haga clic en **Agregar nota**.
+1. Seleccione el icono del archivo adjunto y seleccione el documento de Word que ha creado al comienzo de este laboratorio.
+1. Seleccione **Agregar nota**.
 
 ### Calificar al nuevo cliente potencial
 
@@ -57,7 +57,7 @@ lab:
 1. Seleccione **Cameron Azadi**.
 1. Haga clic en el botón **Calificar** en la barra de menú superior.
 1. Se abrirá un cuadro de diálogo para indicar que se encontró información coincidente.  Vincule el cliente potencial a la cuenta de Microsoft y al contacto "Cameron Azadi" que especificó anteriormente.
-1. Haga clic en **Continuar**.
+1. Seleccione **Continuar**.
 
 **Nota:** El cliente potencial progresará a la etapa de desarrollo.
 
@@ -65,14 +65,14 @@ lab:
 
 1. En el **Centro de ventas de Dynamics 365**, vaya a **Ventas** > **Oportunidades**.
 1. Cambie la vista haciendo clic en el menú desplegable y seleccionando **Todas las oportunidades**.
-1. Haga clic para seleccionar la oportunidad **Le gustan nuestros productos Xbox** para Cameron Azadi.
+1. Seleccione la oportunidad **Le gustan nuestros productos Xbox** para Cameron Azadi.
 1. Tenga en cuenta que el archivo adjunto y las notas creadas en el formulario de cliente potencial también están disponibles en el formulario de oportunidad. 
 1. En la sección **Escala de tiempo**, haga clic en **+** para redactar un borrador y enviar un **Correo electrónico**. Aparecerá la ventana emergente del correo electrónico.
 1. En el campo **Asunto**, escriba **Xbox Series X**.
 1. Escriba un mensaje como "Hola, Cameron. Gracias por su interés en Xbox Serie X. Quedamos a la espera de nuestra reunión”. 
 1. Opcionalmente, desde el registro de oportunidad o los registros relacionados, como el registro de contacto, navegando hacia él, en segundo plano, puede copiar y pegar cualquier información en el mensaje de correo electrónico sin perder el enfoque y ahorrar tiempo.
-1. Haga clic en **Guardar**.
-1. Haga clic en **Enviar**.
+1. Seleccione **Guardar**.
+1. Seleccione **Enviar**.
 
 
 

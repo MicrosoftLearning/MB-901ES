@@ -13,9 +13,9 @@ lab:
 
 1. Vaya a **Administración del sistema** > **Seguridad** > **Asignar usuarios a roles**.
 1. En el árbol, seleccione **'Funcionario de clientes'**.
-1. Haga clic en **Asignar de forma manual**/**excluir usuarios**.
+1. Seleccione **Asignar de forma manual**/**excluir usuarios**.
 1. En la lista, seleccione un usuario.
-1. Haga clic en **Excluir del rol** para excluir a los usuarios seleccionados.
+1. Seleccione **Excluir del rol** para excluir a los usuarios seleccionados.
 1. Para eliminar exclusiones, seleccione a los usuarios para los que desea hacerlo y luego haga clic en **Restablecer estado**. 
 
 ### Crear una regla de segregación de controles
@@ -23,7 +23,7 @@ lab:
 **Escenario:** El Departamento de RR. HH. de USMF ha solicitado una regla para la segregación de controles, de modo que **Acceder al área de trabajo de los beneficios** quede como el primer deber y **Acceder al diario de producción** quede como el segundo. Usted, como administrador del sistema, deberá crear la regla.
 
 1. Vaya a **Administración del sistema** > **Seguridad** > **Segregación de controles** > **Reglas de segregación de controles**.
-1. Haga clic en **Nuevo**.
+1. Seleccione **Nuevo**.
 1. En el campo **Nombre**, escriba un nombre exclusivo para la regla.
 1. En el campo **Primer deber**, seleccione el botón desplegable para abrir la búsqueda.
 1. En la lista, busque y seleccione el primer deber controlado por la regla.
@@ -36,4 +36,4 @@ lab:
 1. En el campo **Mitigación de seguridad**, escriba un valor.
 1. Escriba una descripción de las medidas que toma para mitigar el riesgo de seguridad. 
 Por ejemplo, puede mitigar el riesgo al realizar revisiones más detalladas del proceso, al realizar una revisión administrativa mensual o al compartir recursos con otros departamentos.
-1. Haga clic en **Guardar**.
+1. Seleccione **Guardar**.

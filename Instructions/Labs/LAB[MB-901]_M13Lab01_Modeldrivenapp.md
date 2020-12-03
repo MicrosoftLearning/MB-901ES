@@ -13,33 +13,33 @@ Inicie sesión con la identificación en vivo de su ventana en Power Apps. Si a�
 
 ## Instrucciones
 1. Acceda al Centro de administración de Power Platform.
-12.	Haga clic en **Entornos**.
-13.	Haga clic en su entorno de prueba de CRM. 
-14.	Haga clic en el vínculo de ![Centro de administración de Dynamics 365](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0).
+12.	Seleccione **Entornos**.
+13.	Seleccione su entorno de prueba de CRM. 
+14.	Seleccione el vínculo de ![Centro de administración de Dynamics 365](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx?redirect=False0).
 15.	Seleccione **GTLPowerApps**.
-16.	Haga clic en **Abrir**.
-17.	Haga clic en **Crear nueva aplicación**.
+16.	Seleccione **Abrir**.
+17.	Seleccione **Crear nueva aplicación**.
 19.	En la página **Crea una nueva aplicación**, introduzca los siguientes detalles y luego seleccione **Hecho**:
     - **Nombre:** Escriba **GuideToPowerApp**.
     - **Nombre único:** De manera predeterminada, el nombre único utiliza el nombre que especifique en el cuadro Nombre sin espacios y precedido por el prefijo del editor y un guión bajo (_).
     - **Descripción:** Escriba **GuideToPowerApp**.
-20.	Haga clic en **Listo**.
+20.	Seleccione **Listo**.
 21.	Desde el diseñador de la aplicación, agregue componentes a su aplicación. Seleccione el icono de lápiz en el botón del **Mapa del sitio** para abrir el diseñador del mapa del sitio.
 22.	Utilizará la entidad Cuentas en esta instancia de Power Apps para administrar las cuentas de los clientes.
 22. En la pestaña **Propiedades**, escriba **Cuentas** para el nombre del área.
 23.	En el diseñador del mapa del sitio, seleccione **Nueva subárea**, en el panel derecho, seleccione la pestaña **Propiedades** y luego seleccione el valor de las siguientes propiedades:
     - **Tipo: Entidad**
     - **Entidad: Cuenta**  
-    - Haga clic en **Guardar**. 
-24.	Haga clic en **Diseñador de estructuras**.
+    - Seleccione **Guardar**. 
+24.	Seleccione **Diseñador de estructuras**.
 25.	En el lienzo del diseñador de aplicaciones, seleccione **Formularios** y luego en el panel derecho debajo del grupo **Formularios principales** seleccione el formulario **Cuenta**.
-26.	Haga clic en el botón **Volver**.
+26.	Seleccione el botón **Volver**.
 27.	En el lienzo del diseñador de aplicaciones, seleccione **Vistas** y luego. seleccione las vistas **Cuentas activas**, **Todas las cuentas** y **Mis cuentas activas**.
-28.	Haga clic en el botón **Volver**.
+28.	Seleccione el botón **Volver**.
 29.	En el lienzo del diseñador de aplicaciones, seleccione **Gráficos** y luego el gráfico **Cuentas por sector**.
-30.	Haga clic en el botón **Volver**.
+30.	Seleccione el botón **Volver**.
 31.	En la barra de herramientas del diseñador de aplicaciones, haga clic en **Guardar** y luego en **Publicar**.
-32.	Haga clic en **Ejecutar**.
+32.	Seleccione **Ejecutar**.
 34.	Revise los resultados e interactúe con su primera aplicación basada en modelos.
 35.	Pruébelo en su dispositivo móvil instalando la aplicación Dynamics 365 para teléfonos o Dynamics 365 para tabletas desde la tienda de aplicaciones de su dispositivo. Más información: https://docs.microsoft.com/dynamics365/customer-engagement/mobile-app/install-dynamics-365-for-phones-and-tablets
 36.	Escriba la dirección URL de la aplicación directamente en el explorador web de su teléfono y siga las instrucciones en pantalla para cargar la aplicación. 

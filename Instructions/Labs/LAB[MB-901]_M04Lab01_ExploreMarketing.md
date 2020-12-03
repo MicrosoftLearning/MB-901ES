@@ -9,10 +9,10 @@ lab:
 
 **Requisitos previos:** Antes de realizar los pasos de este laboratorio, realice las siguientes tareas: 
 1. Vaya a **Marketing** > **Archivos**.
-1. Haga clic en **Nuevo**.
-1. Haga clic en **Agregar archivos**.
+1. Seleccione **Nuevo**.
+1. Seleccione **Agregar archivos**.
 1. Cargue al menos una imagen desde su escritorio.
-1. Haga clic en **Cargar**.
+1. Seleccione **Cargar**.
 1. Una vez que se complete la carga, haga clic en **Listo**.
 
 ### Cree correos electrónicos atractivos

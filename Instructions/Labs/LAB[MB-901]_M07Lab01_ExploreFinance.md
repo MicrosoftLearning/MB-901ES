@@ -29,13 +29,13 @@ Navegue hasta **Módulos>Datos de demostración**, haga clic en **Generar datos*
 
 2.  Vaya a **Contabilidad general > Divisas > Tipos de cambio**.
 
-3.  Haga clic en **Nuevo**.
+3.  Seleccione **Nuevo**.
 
 4.  En el campo **Tipo de cambio**, escriba 'GTL-EXCH'.
 
 5.  En el campo **Nombre**, escriba 'Seahorse Exchange Rate'.
 
-6.  Haga clic en **Tipos de cambio**.
+6.  Seleccione **Tipos de cambio**.
 
 7.  Tenga en cuenta que no hay ningún tipo de cambio disponible.
 
@@ -45,11 +45,11 @@ Navegue hasta **Módulos>Datos de demostración**, haga clic en **Generar datos*
 
 10. Vaya a **Libro de contabilidad general > Divisas > Configurar proveedores de tipo de cambio**.
 
-11. Haga clic en **Nuevo**.
+11. Seleccione **Nuevo**.
 
 12. Seleccione **Banco Central de la Federación Rusa**
 
-13. Haga clic en **Aceptar**.
+13. Seleccione **Aceptar**.
 
 14. Cierre la página.
 
@@ -62,13 +62,13 @@ Navegue hasta **Módulos>Datos de demostración**, haga clic en **Generar datos*
 18. En el campo **Proveedor de tipo de cambio**, introduzca o seleccione **Banco Central de
     la Federación Rusa**
 
-19. Haga clic en **Aceptar**.
+19. Seleccione **Aceptar**.
 
 20. Vaya a **Contabilidad general > Divisas > Tipos de cambio**.
 
 21. Seleccione **GTL-EXCH**
 
-22. Haga clic en **Tipos de cambio**.
+22. Seleccione **Tipos de cambio**.
 
 23. Observe los valores importados
 
@@ -78,19 +78,19 @@ Navegue hasta **Módulos>Datos de demostración**, haga clic en **Generar datos*
 
 1.  Vaya a **Cuentas por pagar > Pedidos de compra > Todos los pedidos de compra**.
 
-2.  Haga clic en **Nuevo**.
+2.  Seleccione **Nuevo**.
 
 3.  En el campo **Cuenta de proveedor**, seleccione **1001 Acme Office Supplies**.
 
 4.  En el campo **Almacén**, seleccione **11**.
 
-5.  Haga clic en **Aceptar**.
+5.  Seleccione **Aceptar**.
 
 6.  En el campo **Número de artículo**, seleccione el artículo **1000 Surface Pro 128 GB**.
 
 7.  En el panel de acciones, haga clic en **Compra**.
 
-8.  Haga clic en **Confirmar**.
+8.  Seleccione en **Confirmar**.
 
 9.  En el panel de acciones, haga clic en **Recibir**.
 
@@ -98,7 +98,7 @@ Navegue hasta **Módulos>Datos de demostración**, haga clic en **Generar datos*
 
 11. En el campo **Recepción de producto**, escriba **GTL02020**.
 
-12. Haga clic en **Aceptar**.
+12. Seleccione **Aceptar**.
 
 13. Cierre todos los formularios.
 
